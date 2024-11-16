@@ -5,9 +5,9 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Medal } from "lucide-react";
 
 const MOCK_USERS = [
-  { id: 1, name: "Ahmed", score: 25, image: "https://github.com/shadcn.png" },
-  { id: 2, name: "Sarah", score: 23, image: "https://github.com/shadcn.png" },
-  { id: 3, name: "Mohammed", score: 20, image: "https://github.com/shadcn.png" },
+  { id: 1, name: "Zak", score: 25, image: "https://github.com/shadcn.png" },
+  { id: 2, name: "jeebs", score: 23, image: "https://github.com/shadcn.png" },
+
 ];
 
 export function Leaderboard() {
